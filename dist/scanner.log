@@ -1,0 +1,101 @@
+2026-10-27 21:27:08,483 INFO ============================================================
+2026-10-27 21:27:08,483 INFO BlackCubeScannerFX v1.11 starting
+2026-10-27 21:27:08,483 INFO EXE dir : D:\BlackCubeScannerFX\dist
+2026-10-27 21:27:08,483 INFO Log file: D:\BlackCubeScannerFX\dist\scanner.log
+2026-10-27 21:27:08,507 INFO BlackCubeScannerFX v1.11 listening on 0.0.0.0:5555
+2026-10-27 21:27:08,507 INFO symbol=XAUUSD digits=2 point=0.01 lot=0.01 breakout=30
+2026-10-27 21:27:08,507 INFO Tekan Ctrl+C untuk stop.
+2026-10-27 21:27:08,515 INFO accept ('127.0.0.1', 64184)
+2026-10-27 21:27:08,531 INFO HELLO ('127.0.0.1', 64184) sym=XAUUSD digits=2 magic=555501 login=6154484
+2026-10-27 21:27:08,547 INFO received 1000 bars (total=1000)
+2026-10-27 21:33:12,652 INFO ============================================================
+2026-10-27 21:33:12,652 INFO BlackCubeScannerFX v1.11 starting
+2026-10-27 21:33:12,652 INFO EXE dir : D:\BlackCubeScannerFX\dist
+2026-10-27 21:33:12,652 INFO Log file: D:\BlackCubeScannerFX\dist\scanner.log
+2026-10-27 21:33:12,652 INFO BlackCubeScannerFX v1.11 listening on 0.0.0.0:5555
+2026-10-27 21:33:12,652 INFO symbol=XAUUSD digits=2 point=0.01 lot=0.01 breakout=30
+2026-10-27 21:33:12,652 INFO Tekan Ctrl+C untuk stop.
+2026-10-27 21:33:12,770 INFO accept ('127.0.0.1', 49923)
+2026-10-27 21:33:12,786 INFO HELLO ('127.0.0.1', 49923) sym=XAUUSD digits=2 magic=555501 login=6154484
+2026-10-27 21:33:12,802 INFO received 1000 bars (total=1000)
+2026-10-27 21:33:18,560 INFO session closed ('127.0.0.1', 49923) (rx_lines=33, rx_bars=1000)
+2026-10-27 21:33:18,563 INFO accept ('127.0.0.1', 60805)
+2026-10-27 21:33:18,568 INFO HELLO ('127.0.0.1', 60805) sym=XAUUSD digits=2 magic=555501 login=6154484
+2026-10-27 21:33:18,600 INFO received 1000 bars (total=1000)
+2026-10-27 21:34:00,581 INFO received 1 bars (total=1000)
+2026-10-27 21:35:00,566 INFO received 1 bars (total=1000)
+2026-10-27 21:36:00,569 INFO received 1 bars (total=1000)
+2026-10-27 21:36:39,776 INFO session closed ('127.0.0.1', 60805) (rx_lines=1199, rx_bars=1003)
+2026-10-27 21:36:42,060 INFO accept ('127.0.0.1', 56479)
+2026-10-27 21:36:42,063 INFO HELLO ('127.0.0.1', 56479) sym=XAUUSD digits=2 magic=555501 login=6154484
+2026-10-27 21:36:42,090 INFO received 1000 bars (total=1000)
+2026-10-27 21:37:00,060 INFO received 1 bars (total=1000)
+2026-10-27 21:37:09,751 INFO session closed ('127.0.0.1', 56479) (rx_lines=169, rx_bars=1001)
+2026-10-27 21:37:09,766 INFO accept ('127.0.0.1', 50041)
+2026-10-27 21:37:09,768 INFO HELLO ('127.0.0.1', 50041) sym=XAUUSD digits=2 magic=555501 login=6154484
+2026-10-27 21:37:09,796 INFO received 1000 bars (total=1000)
+2026-10-27 21:38:00,761 INFO received 1 bars (total=1000)
+2026-10-27 21:38:25,703 INFO session closed ('127.0.0.1', 50041) (rx_lines=439, rx_bars=1001)
+2026-10-27 21:38:25,876 INFO accept ('127.0.0.1', 62632)
+2026-10-27 21:38:25,876 INFO HELLO ('127.0.0.1', 62632) sym=XAUUSD digits=2 magic=555501 login=6154484
+2026-10-27 21:38:25,902 INFO received 1000 bars (total=1000)
+2026-10-27 21:38:25,955 INFO session closed ('127.0.0.1', 62632) (rx_lines=2, rx_bars=1000)
+2026-10-27 21:38:28,088 INFO accept ('127.0.0.1', 62633)
+2026-10-27 21:38:28,100 INFO HELLO ('127.0.0.1', 62633) sym=XAUUSD digits=2 magic=555501 login=6154484
+2026-10-27 21:38:28,124 INFO received 1000 bars (total=1000)
+2026-10-27 21:39:00,100 INFO received 1 bars (total=1000)
+2026-10-27 21:40:00,082 INFO received 1 bars (total=1000)
+2026-10-27 21:41:19,088 INFO received 1 bars (total=1000)
+2026-10-27 21:42:15,075 INFO received 1 bars (total=1000)
+2026-10-27 21:43:13,089 INFO received 1 bars (total=1000)
+2026-10-27 21:43:15,721 INFO session closed ('127.0.0.1', 62633) (rx_lines=977, rx_bars=1005)
+2026-10-27 21:43:17,998 INFO accept ('127.0.0.1', 63358)
+2026-10-27 21:43:18,014 INFO HELLO ('127.0.0.1', 63358) sym=XAUUSD digits=2 magic=555501 login=6154484
+2026-10-27 21:43:18,047 INFO received 1000 bars (total=1000)
+2026-10-27 21:43:20,643 INFO session closed ('127.0.0.1', 63358) (rx_lines=7, rx_bars=1000)
+2026-10-27 21:50:49,286 INFO ============================================================
+2026-10-27 21:50:49,286 INFO BlackCubeScannerFX v1.11 starting
+2026-10-27 21:50:49,286 INFO EXE dir : D:\BlackCubeScannerFX\dist
+2026-10-27 21:50:49,286 INFO Log file: D:\BlackCubeScannerFX\dist\scanner.log
+2026-10-27 21:50:49,286 INFO BlackCubeScannerFX v1.11 listening on 0.0.0.0:5555
+2026-10-27 21:50:49,286 INFO symbol=XAUUSD digits=2 point=0.01 lot=0.01 breakout=30
+2026-10-27 21:50:49,286 INFO Tekan Ctrl+C untuk stop.
+2026-10-27 21:53:03,490 INFO ============================================================
+2026-10-27 21:53:03,490 INFO BlackCubeScannerFX v1.11 starting
+2026-10-27 21:53:03,490 INFO EXE dir : D:\BlackCubeScannerFX\dist
+2026-10-27 21:53:03,490 INFO Log file: D:\BlackCubeScannerFX\dist\scanner.log
+2026-10-27 21:53:03,495 INFO BlackCubeScannerFX v1.11 listening on 0.0.0.0:5555
+2026-10-27 21:53:03,496 INFO symbol=XAUUSD digits=2 point=0.01 lot=0.01 breakout=30
+2026-10-27 21:53:03,496 INFO Tekan Ctrl+C untuk stop.
+2026-10-27 21:53:03,846 INFO accept ('127.0.0.1', 56762)
+2026-10-27 21:53:03,850 INFO HELLO ('127.0.0.1', 56762) sym=XAUUSD digits=2 magic=555501 login=6154484
+2026-10-27 21:53:03,877 INFO received 1000 bars (total=1000)
+2026-10-27 21:54:00,892 INFO received 1 bars (total=1000)
+2026-10-27 21:54:08,913 INFO session closed ('127.0.0.1', 56762) (rx_lines=443, rx_bars=1001)
+2026-10-27 21:54:08,925 INFO accept ('127.0.0.1', 52046)
+2026-10-27 21:54:08,944 INFO HELLO ('127.0.0.1', 52046) sym=XAUUSD digits=2 magic=555501 login=6154484
+2026-10-27 21:54:08,963 INFO received 1000 bars (total=1000)
+2026-10-27 21:54:11,281 INFO session closed ('127.0.0.1', 52046) (rx_lines=17, rx_bars=1000)
+2026-10-27 21:54:11,291 INFO accept ('127.0.0.1', 51922)
+2026-10-27 21:54:11,293 INFO HELLO ('127.0.0.1', 51922) sym=XAUUSD digits=2 magic=555501 login=6154484
+2026-10-27 21:54:11,338 INFO received 1000 bars (total=1000)
+2026-10-27 21:57:39,938 INFO ============================================================
+2026-10-27 21:57:39,938 INFO BlackCubeScannerFX v1.11 starting
+2026-10-27 21:57:39,938 INFO EXE dir : D:\BlackCubeScannerFX\dist
+2026-10-27 21:57:39,938 INFO Log file: D:\BlackCubeScannerFX\dist\scanner.log
+2026-10-27 21:57:39,946 INFO BlackCubeScannerFX v1.11 listening on 0.0.0.0:5555
+2026-10-27 21:57:39,946 INFO symbol=XAUUSD digits=2 point=0.01 lot=0.01 breakout=30
+2026-10-27 21:57:39,946 INFO Tekan Ctrl+C untuk stop.
+2026-10-27 23:00:49,232 INFO ============================================================
+2026-10-27 23:00:49,232 INFO BlackCubeScannerFX v1.11 starting
+2026-10-27 23:00:49,232 INFO EXE dir : D:\ProyekAI\BlackCubeScannerFX\dist
+2026-10-27 23:00:49,232 INFO Log file: D:\ProyekAI\BlackCubeScannerFX\dist\scanner.log
+2026-10-27 23:00:49,232 INFO BlackCubeScannerFX v1.11 listening on 0.0.0.0:5555
+2026-10-27 23:00:49,232 INFO symbol=XAUUSD digits=2 point=0.01 lot=0.01 breakout=30
+2026-10-27 23:00:49,232 INFO Tekan Ctrl+C untuk stop.
+2026-10-27 23:00:49,483 INFO accept ('127.0.0.1', 60451)
+2026-10-27 23:00:49,485 INFO HELLO ('127.0.0.1', 60451) sym=XAUUSD digits=2 magic=555501 login=6154484
+2026-10-27 23:00:49,501 INFO received 1000 bars (total=1000)
+2026-10-27 23:00:59,979 INFO received 1 bars (total=1000)
+2026-10-27 23:02:53,820 INFO received 1 bars (total=1000)
+2026-10-27 23:03:00,818 INFO received 1 bars (total=1000)
